@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoaoVcz
+- 👋 Hi, I’m @Joao Vitor da Cruz Souza
 - 👀 I’m interested in Aprender e por em pratica meus conhecimentos
 - 🌱  I’m currently learning A desenvolver e análisar sistemas
 - 💞️ I’m looking to collaborate on Em desenvolver aplicativos e sites
